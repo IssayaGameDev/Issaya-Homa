@@ -147,10 +147,10 @@ MonoBehaviour:
   zSpeed: 5
   sensitivity: 1.75
   groundSize: 5.5
-  meltAmmount: 0.002
+  meltAmmount: 0.004
   hotMeltMult: 5
   pickUpSize: 0.25
-  tiltMult: 5
+  tiltMult: 4
   trailController: {fileID: 0}
   stick: {fileID: 0}
   burnParticles: {fileID: 0}
